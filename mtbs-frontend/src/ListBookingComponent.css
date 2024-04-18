@@ -1,0 +1,35 @@
+.booking-list {
+    margin-top: 20px;
+  }
+  
+  .booking-list h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .table th, .table td {
+    vertical-align: middle;
+  }
+  
+  .table th {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f8f9fa;
+  }
+  
+  .table-bordered th, .table-bordered td {
+    border: 1px solid #dee2e6;
+  }
+  
+  .table-bordered th {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .table-bordered td {
+    background-color: #fff;
+  }
+  

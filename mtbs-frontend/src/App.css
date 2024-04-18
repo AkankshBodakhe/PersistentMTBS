@@ -1,0 +1,69 @@
+.card {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.btn-lg {
+    padding: 10px 30px;
+    font-size: 1.2rem;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.text-center {
+    margin-bottom: 20px;
+}
+
+.row {
+    justify-content: center;
+}
+
+.d-grid {
+    margin-top: 20px;
+}
+
+body {
+    background-color: #0373e3;
+}
+.header {
+    background-color: #2173ca; /* Blue background color */
+    /* padding: 10px 0; Add padding to the top and bottom */
+  }
+  
+  .navbar-brand {
+    font-size: 0%; /* Increase font size for the brand */
+  }
+  
+  .nav-link {
+    color: #03041d !important; /* White text color */
+    font-size: 20%; /* Font size for the navigation links */
+  }
+  
+  .nav-link:hover {
+    color: #ffffff !important; /* Change text color on hover */
+  }
+  
